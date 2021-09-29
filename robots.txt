@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.gonzalopozzi.com.ar/sitemap.xml
+Host: https://www.gonzalopozzi.com.ar

@@ -1,0 +1,92 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-260e89c911c4cfae04b1.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.4910c83201fff50386ef.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-7d4153d260c0197f0043.js
+  Cache-Control: public, max-age=31536000, immutable
+/05d954cf-0533266a93e817f895be.js
+  Cache-Control: public, max-age=31536000, immutable
+/ea07e6142745be659007e3476e833c73efc0eea6-717311e4858d938e4009.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-js-6525a81b65a8eea02497.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-aboutpg-js-df029de17ecf228d7c25.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-js-9dce041e71c9741900ea.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-privacy-js-603ca4762cd29f353be7.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-7d9e6529ad0c4bb89dfc.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-6c3ead24af170cdcb87c.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-5aeb147c01abb77a63f4.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/reponame/offline-plugin-app-shell-fallback/
+  Link: </reponame/webpack-runtime-7d9e6529ad0c4bb89dfc.js>; rel=preload; as=script
+  Link: </reponame/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </reponame/app-5aeb147c01abb77a63f4.js>; rel=preload; as=script
+  Link: </reponame/component---cache-caches-gatsby-plugin-offline-app-shell-js-260e89c911c4cfae04b1.js>; rel=preload; as=script
+  Link: </reponame/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </reponame/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/reponame/404/
+  Link: </reponame/webpack-runtime-7d9e6529ad0c4bb89dfc.js>; rel=preload; as=script
+  Link: </reponame/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </reponame/app-5aeb147c01abb77a63f4.js>; rel=preload; as=script
+  Link: </reponame/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </reponame/05d954cf-0533266a93e817f895be.js>; rel=preload; as=script
+  Link: </reponame/ea07e6142745be659007e3476e833c73efc0eea6-717311e4858d938e4009.js>; rel=preload; as=script
+  Link: </reponame/component---src-pages-404-js-6525a81b65a8eea02497.js>; rel=preload; as=script
+  Link: </reponame/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </reponame/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/reponame/aboutpg/
+  Link: </reponame/webpack-runtime-7d9e6529ad0c4bb89dfc.js>; rel=preload; as=script
+  Link: </reponame/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </reponame/app-5aeb147c01abb77a63f4.js>; rel=preload; as=script
+  Link: </reponame/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </reponame/05d954cf-0533266a93e817f895be.js>; rel=preload; as=script
+  Link: </reponame/ea07e6142745be659007e3476e833c73efc0eea6-717311e4858d938e4009.js>; rel=preload; as=script
+  Link: </reponame/component---src-pages-aboutpg-js-df029de17ecf228d7c25.js>; rel=preload; as=script
+  Link: </reponame/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </reponame/page-data/aboutpg/page-data.json>; rel=preload; as=fetch; crossorigin
+/reponame/
+  Link: </reponame/webpack-runtime-7d9e6529ad0c4bb89dfc.js>; rel=preload; as=script
+  Link: </reponame/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </reponame/app-5aeb147c01abb77a63f4.js>; rel=preload; as=script
+  Link: </reponame/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </reponame/05d954cf-0533266a93e817f895be.js>; rel=preload; as=script
+  Link: </reponame/ea07e6142745be659007e3476e833c73efc0eea6-717311e4858d938e4009.js>; rel=preload; as=script
+  Link: </reponame/component---src-pages-index-js-9dce041e71c9741900ea.js>; rel=preload; as=script
+  Link: </reponame/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </reponame/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/reponame/privacy/
+  Link: </reponame/webpack-runtime-7d9e6529ad0c4bb89dfc.js>; rel=preload; as=script
+  Link: </reponame/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </reponame/app-5aeb147c01abb77a63f4.js>; rel=preload; as=script
+  Link: </reponame/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </reponame/05d954cf-0533266a93e817f895be.js>; rel=preload; as=script
+  Link: </reponame/ea07e6142745be659007e3476e833c73efc0eea6-717311e4858d938e4009.js>; rel=preload; as=script
+  Link: </reponame/component---src-pages-privacy-js-603ca4762cd29f353be7.js>; rel=preload; as=script
+  Link: </reponame/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </reponame/page-data/privacy/page-data.json>; rel=preload; as=fetch; crossorigin
+/reponame/404.html
+  Link: </reponame/webpack-runtime-7d9e6529ad0c4bb89dfc.js>; rel=preload; as=script
+  Link: </reponame/framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </reponame/app-5aeb147c01abb77a63f4.js>; rel=preload; as=script
+  Link: </reponame/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </reponame/05d954cf-0533266a93e817f895be.js>; rel=preload; as=script
+  Link: </reponame/ea07e6142745be659007e3476e833c73efc0eea6-717311e4858d938e4009.js>; rel=preload; as=script
+  Link: </reponame/component---src-pages-404-js-6525a81b65a8eea02497.js>; rel=preload; as=script
+  Link: </reponame/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </reponame/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
